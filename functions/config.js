@@ -34,6 +34,7 @@ export const CHANNEL_ID = '-1001218917905';
 export const SERVER_NAMES = {
     1: '🇸🇬 Singapore #1',
     2: '🇸🇬 Singapore #2',
+    3: '🇸🇬 Singapore #3',
     // Add more panels as needed
 };
 export const PREMIUM_DEFAULT_PANEL = 1; // Default panel if not specified for credit redemption

@@ -14,7 +14,7 @@ export const MMT_OFFSET_SECONDS = 6.5 * 3600;
 
 // Bot Configuration (Placeholder: MUST BE UPDATED IN PRODUCTION)
 // NOTE: BOT_TOKEN will be provided via environment variables (e.g., env.TELEGRAM_BOT_TOKEN)
-export const TELEGRAM_BOT_TOKEN_ENV = '8291444462:AAGn5NzE2iJn6p2oOoIFAg0L1jliGxzPfFs'; // Expected environment variable name
+export const TELEGRAM_BOT_TOKEN_ENV = 'TELEGRAM_BOT_TOKEN'; // Expected environment variable name
 export const BOT_USERNAME = 'JackFrozt_V2rayBot';
 // API_URL will be constructed dynamically in utils.js
 

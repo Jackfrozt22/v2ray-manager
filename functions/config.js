@@ -15,20 +15,20 @@ export const MMT_OFFSET_SECONDS = 6.5 * 3600;
 // Bot Configuration (Placeholder: MUST BE UPDATED IN PRODUCTION)
 // NOTE: BOT_TOKEN will be provided via environment variables (e.g., env.TELEGRAM_BOT_TOKEN)
 export const TELEGRAM_BOT_TOKEN_ENV = '8291444462:AAGn5NzE2iJn6p2oOoIFAg0L1jliGxzPfFs'; // Expected environment variable name
-export const BOT_USERNAME = 'V2RayChecker404Bot';
+export const BOT_USERNAME = 'JackFrozt_V2rayBot';
 // API_URL will be constructed dynamically in utils.js
 
 // Admin Configuration
-export const ADMIN_IDS = [1273841502, 6285623251];
-export const OWNER_ID = 1273841502;
+export const ADMIN_IDS = [8532838293,];
+export const OWNER_ID = 7500643946;
 export const OWNER_URL = 'tg://user?id=' + OWNER_ID;
 
 // V2Ray API Configuration
 export const V2RAY_API_URL = 'https://iam404.serv00.net/404-v2ray-checker/v3/api.php';
 
 // Channel URL and ID
-export const CHANNEL_URL = 'https://t.me/premium_channel_404';
-export const CHANNEL_ID = '-1001218917905';
+export const CHANNEL_URL = 'https://t.me/DaGe_4u';
+export const CHANNEL_ID = '-1003489881710';
 
 // Server Configuration
 export const SERVER_NAMES = {

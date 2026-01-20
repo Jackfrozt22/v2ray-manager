@@ -24,7 +24,7 @@ export const OWNER_ID = 7500643946;
 export const OWNER_URL = 'tg://user?id=' + OWNER_ID;
 
 // V2Ray API Configuration
-export const V2RAY_API_URL = 'https://iam404.serv00.net/404-v2ray-checker/v3/api.php';
+export const V2RAY_API_URL = 'https://host-api.alwaysdata.net/api.php';
 
 // Channel URL and ID
 export const CHANNEL_URL = 'https://t.me/DaGe_4u';
